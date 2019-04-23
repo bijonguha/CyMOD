@@ -43,3 +43,12 @@ Download samp_proj folder, and you can use it for a sample run
 ```
 python cyMOD.py -h
 ```
+#### Pros/Cons
+##### Pros:
+1) Safe and Secure way to share code  
+2) Works slightly faster than normal .py file as compilation time is saved  
+3) Can be used in Win/Linux
+
+##### Cons:
+1) Generated binaries are system and python version specific
+
