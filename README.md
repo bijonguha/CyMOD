@@ -82,9 +82,9 @@ Running CyMod will produce the following structure (if `keep` is set to `False`)
 ```plaintext
 sample_project/
 ├── main.c
-├── __init__.c
-├── module1.c
-└── module2.c
+├── __init__.pyc/.so
+├── module1.pyc/.so
+└── module2.pyc/.so
 ```
 
 ## Security Considerations
