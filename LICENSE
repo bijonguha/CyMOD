@@ -1,21 +1,67 @@
-MIT License
+                            GNU GENERAL PUBLIC LICENSE
+                           Version 3, 29 June 2007
 
-Copyright (c) 2019 bijonguha
+Copyright (C) [year]  [fullname]
+Copyright (C) 2024  [Your Name/Company Name]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Everyone is permitted to copy and distribute verbatim copies of this license
+document, but changing it is not allowed.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+                            Preamble
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The GNU General Public License is a free software license that guarantees end
+users the freedom to run, study, share, and modify the software. It is
+designed to protect your freedom to share and change all versions of a program
+to make sure it remains free software for all its users. We, the Free Software
+Foundation, use the GPL for most of our software; it applies to any program
+whose authors commit to using it. (If a program is released under the GPL with
+the intent of making it free software, that program can later be modified and
+re-released under different licenses by the authors.) You can apply the GPL to
+your own programs, and it will automatically apply to any subsequent versions
+of the program, unless you explicitly add exceptions.
+
+When you use software licensed under the GPL, you are granted the following
+freedoms:
+
+  1. The freedom to run the program as you wish, for any purpose.
+  2. The freedom to study how the program works, and change it to make it do
+     what you wish. Access to the source code is a precondition for this.
+  3. The freedom to redistribute copies of the program so you can help your
+     neighbor.
+  4. The freedom to distribute copies of your modified versions to others. By
+     doing this you can give the whole community a chance to benefit from your
+     changes. Access to the source code is a precondition for this.
+
+This General Public License applies to most software that we distribute. Some
+software is released under other licenses, but most of our software is
+licensed under the GPL. If you are unsure about which license applies to a
+particular software program, feel free to check our website at
+https://www.gnu.org/licenses/ to find out more.
+
+                             TERMS AND CONDITIONS
+
+0. Definitions.
+  "This License" refers to version 3 of the GNU General Public License.
+
+1. You may copy, distribute, and modify the Program as long as you follow these
+   terms:
+   a. You must give proper attribution to the original authors.
+   b. You must share the source code, including modifications you made to the
+      program.
+   c. You must license the modified code under the same GPL license.
+
+2. The above copyright notice and this permission notice must be included in all
+   copies or substantial portions of the Program. The Program is distributed
+   in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even
+   the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+   See the GNU General Public License for more details.
+
+3. If you modify and distribute the Program, you must release the modified code
+   under the same GPL License.
+
+4. You may not impose additional restrictions on the rights granted by this
+   License.
+
+5. If you convey the Program, it must be accompanied by the source code.
+
+                              END OF TERMS AND CONDITIONS
